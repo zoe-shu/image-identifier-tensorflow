@@ -1,1 +1,10 @@
+.cache/
 node_modules/
+dist/card1_front.*.jpg
+dist/card2_front.*.jpg
+dist/card3_front.*.jpg
+dist/scanner.*.js
+dist/scanner.*.map
+dist/styles.*.css
+dist/index.html
+dist/*

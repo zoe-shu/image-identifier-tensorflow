@@ -1,4 +1,4 @@
-#Image Identifier with TensorFlow.js#
+#Image Identifier with TensorFlow.js
 ```sh
 $ yarn install
 $ yarn watch
@@ -9,10 +9,13 @@ $ yarn watch
 2. show below images to the web camera
 3. the identified result shown on right side
 
+![image](https://github.com/zoe-shu/image-identifier-tensorflow/blob/master/dist/img/card1_front.jpg)
+![image](https://github.com/zoe-shu/image-identifier-tensorflow/blob/master/dist/img/card2_front.jpg)
+![image](https://github.com/zoe-shu/image-identifier-tensorflow/blob/master/dist/img/card3_front.jpg)
+![image](https://github.com/zoe-shu/image-identifier-tensorflow/blob/master/dist/img/postcard_back.png)
 
-
-# This program is based on "TensorFlow.js Example: Transfer Learning to play Pacman via the Webcam"
-# node.js v8.12 required
+- This program is based on "TensorFlow.js Example: Transfer Learning to play Pacman via the Webcam"
+- node.js v8.12 required
 
 
 # Update learning model file
